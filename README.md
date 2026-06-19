@@ -58,13 +58,5 @@ The challenge is divided into three phases:
     └── dsa
 ```
 
-## Technologies
 
-- C++
-- Java
-- Git
-- GitHub
 
-## Author
-
-Zadeed Haque
