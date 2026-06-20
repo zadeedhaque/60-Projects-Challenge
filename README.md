@@ -14,17 +14,17 @@ The challenge is divided into three phases:
 
 | Phase | Completed |
 |--------|------------|
-| Fundamentals | 0 / 20 |
+| Fundamentals | 2 / 20 |
 | OOP | 0 / 20 |
 | DSA | 0 / 20 |
-| Total | 0 / 60 |
+| Total | 2 / 60 |
 
 ---
 
 ## Fundamentals
 
-- [ ] Project 01 - C++ Calculator
-- [ ] Project 02 - Java Calculator
+- [x] Project 01 - C++ Calculator
+- [x] Project 02 - Java Calculator
 - [ ] Project 03 - C++ Number Guessing Game
 - [ ] Project 04 - Java Number Guessing Game
 - [ ] Project 05 - C++ Temperature Converter
