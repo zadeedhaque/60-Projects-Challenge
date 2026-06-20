@@ -16,7 +16,7 @@ Complete 60 projects in C++ and Java by July 20, 2026.
 
 | Phase | Completed |
 |---------|---------|
-| Fundamentals | 2 / 20 |
+| Fundamentals | 4 / 20 |
 | OOP | 0 / 20 |
 | DSA | 0 / 20 |
 | Total | 2 / 60 |
@@ -29,8 +29,8 @@ Complete 60 projects in C++ and Java by July 20, 2026.
 |------|----------|----------|----------|
 | 01 | Calculator | C++ | ✅ |
 | 02 | Calculator | Java | ✅ |
-| 03 | Number Guessing Game | C++ | ⬜ |
-| 04 | Number Guessing Game | Java | ⬜ |
+| 03 | Number Guessing Game | C++ | ✅ |
+| 04 | Number Guessing Game | Java | ✅ |
 | 05 | Temperature Converter | C++ | ⬜ |
 | 06 | Temperature Converter | Java | ⬜ |
 | 07 | Unit Converter | C++ | ⬜ |
