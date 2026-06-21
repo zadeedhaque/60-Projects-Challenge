@@ -78,12 +78,6 @@ Complete 60 projects in C++ and Java by July 20, 2026.
 
 ---
 
-## Technologies
-
-- C++
-- Java
-- Git
-- GitHub
 
 ## Author
 
