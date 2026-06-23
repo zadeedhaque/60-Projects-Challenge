@@ -17,7 +17,7 @@ int main()
 int choice;
 double value, result;
 
-```
+
 while(true)
 {
     banner();
@@ -109,6 +109,6 @@ while(true)
 }
 
 return 0;
-```
+
 
 }
