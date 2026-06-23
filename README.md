@@ -16,7 +16,7 @@ Complete 60 projects in C++ and Java by July 20, 2026.
 
 | Phase | Completed |
 |---------|---------|
-| Fundamentals | 6 / 20 |
+| Fundamentals | 10 / 20 |
 | OOP | 0 / 20 |
 | DSA | 0 / 20 |
 | Total | 2 / 60 |
@@ -33,10 +33,10 @@ Complete 60 projects in C++ and Java by July 20, 2026.
 | 04 | Number Guessing Game | Java | ✅ |
 | 05 | Temperature Converter | C++ | ✅|
 | 06 | Temperature Converter | Java |✅|
-| 07 | Unit Converter | C++ | ⬜ |
-| 08 | Unit Converter | Java | ⬜ |
-| 09 | Multiplication Table Generator | C++ | ⬜ |
-| 10 | Multiplication Table Generator | Java | ⬜ |
+| 07 | Unit Converter | C++ | ✅ |
+| 08 | Unit Converter | Java | ✅ |
+| 09 | Multiplication Table Generator | C++ | ✅ |
+| 10 | Multiplication Table Generator | Java | ✅ |
 | 11 | String Reverser | C++ | ⬜ |
 | 12 | String Reverser | Java | ⬜ |
 | 13 | Palindrome Checker | C++ | ⬜ |
